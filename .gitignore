@@ -174,5 +174,3 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
-Images/*
-flipkart_com-ecommerce_sample_1050.csv
