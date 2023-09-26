@@ -1,1 +1,10 @@
 pandas
+transformers
+TensorFlow
+numpy
+tokenization
+tensorflow_hub
+scikit-learn
+bert
+bert-tensorflow
+bert-tokenizer
